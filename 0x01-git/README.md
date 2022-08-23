@@ -1,1 +1,1 @@
-new Readme
+ALX Software Engineering learning scope as been fun
